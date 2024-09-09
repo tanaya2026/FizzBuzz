@@ -7,3 +7,4 @@ public class Main {
 }
 
 //just an issue of brackets
+// just for pratice
